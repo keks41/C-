@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\C# Семинары\задача002\obj\Debug\net6.0\задача002.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C# Семинары\задача002\obj\Debug\net6.0\задача002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# Семинары\задача002\obj\Debug\net6.0\задача002.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Семинары\задача002\obj\Debug\net6.0\задача002.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Семинары\задача002\obj\Debug\net6.0\задача002.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Семинары\задача002\bin\Debug\net6.0\задача002.exe
+C:\Users\Admin\Desktop\C# Семинары\задача002\bin\Debug\net6.0\задача002.deps.json
+C:\Users\Admin\Desktop\C# Семинары\задача002\bin\Debug\net6.0\задача002.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Семинары\задача002\bin\Debug\net6.0\задача002.dll
+C:\Users\Admin\Desktop\C# Семинары\задача002\bin\Debug\net6.0\задача002.pdb
+C:\Users\Admin\Desktop\C# Семинары\задача002\obj\Debug\net6.0\задача002.dll
+C:\Users\Admin\Desktop\C# Семинары\задача002\obj\Debug\net6.0\refint\задача002.dll
+C:\Users\Admin\Desktop\C# Семинары\задача002\obj\Debug\net6.0\задача002.pdb
+C:\Users\Admin\Desktop\C# Семинары\задача002\obj\Debug\net6.0\задача002.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# Семинары\задача002\obj\Debug\net6.0\ref\задача002.dll
